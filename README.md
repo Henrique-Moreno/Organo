@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# Projeto Organo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1>Como executar o projeto React.js</h1>
 
-## Available Scripts
+<p>Este é um guia passo-a-passo de como executar o projeto React.js em sua máquina.</p>
 
-In the project directory, you can run:
+<h3>Requisitos</h3>
 
-### `npm start`
+<p>Antes de começar, você deve ter os seguintes requisitos instalados em sua máquina:</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<li>Node.js (versão 12 ou superior)</li>
+<li>Gerenciador de pacotes npm ou yarn</li>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<h2>Passo 1: Clonando o repositório</h2>
 
-### `npm test`
+<p>Clone o repositório para sua máquina local utilizando o seguinte comando:</p>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+git clone https://github.com/Henrique-Moreno/Organo.git
 
-### `npm run build`
+<h2>Passo 2: Instalando as dependências</h2>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p>Depois de clonar o repositório, acesse a pasta do projeto e instale as dependências necessárias executando o comando abaixo:</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+npm install
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<p>ou</p>
 
-### `npm run eject`
+yarn install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h2>Passo 3: Executando o projeto</h2>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>Com as dependências instaladas, você pode executar o projeto utilizando o seguinte comando:</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p>ou</p>
 
-## Learn More
+yarn start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<h3>Conclusão</h3>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p>Pronto! Agora você sabe como executar o projeto React.js em sua máquina local. Caso precise de ajuda ou tenha alguma dúvida, sinta-se à vontade para entrar em contato.<p/>
